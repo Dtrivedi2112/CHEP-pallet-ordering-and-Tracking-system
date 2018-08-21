@@ -24,7 +24,7 @@ Advantages
 •	Saves nearly $6205 per year & time related to the forklift drivers 
 •	Saves approximately $1500 per year or more for mistakenly not loading the products.
 
-	Works for
+Works for
 •	CHEP crates 
 •	Retail Display pallets
 •	Aldi Dandenong
@@ -39,7 +39,8 @@ o	Researched a solution which can improve the process and came up with an effici
 o	Developed a Windows Form application which in Microsoft Visual Studio 2015 which can calculate the orders and breakdown into combinations and pallets which any forklift driver can understand and can be done in 30 secs
 o	Works for CHEP crates and pallets
 o	Stored the pallet data by making switch cases and list for every textbox and when the information is called by the user and it displays on screen
-o	Sold the software to the company.
+
+Sold the software to the company.
 
 
 
