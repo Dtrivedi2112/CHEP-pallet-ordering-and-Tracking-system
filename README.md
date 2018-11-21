@@ -2,6 +2,7 @@
 
 This is my very first project which I have successfully sold to a client
 
+Image of the software:
 https://user-images.githubusercontent.com/8208583/48812952-c8808080-ed88-11e8-9c83-3fcb58f65a5c.PNG
 
 The pallet ordering, and tracking system is a windows software application which can calculate the pallets & crates, also can break down the ordering of the order quick and easy.
@@ -35,7 +36,7 @@ Works for
 •	Can be updated if any new product is introduced
 
 
-Own project: While working as a forklift driver, I must sit down and calculate the orders for dispatching to ALDI which took 15-20 min calculation
+Own project: 
 
 o	Researched a solution which can improve the process and came up with an efficient solution
 o	Developed a Windows Form application which in Microsoft Visual Studio 2015 which can calculate the orders and breakdown into combinations and pallets which any forklift driver can understand and can be done in 30 secs
