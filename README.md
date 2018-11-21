@@ -1,6 +1,8 @@
 # CHEP-pallet-ordering-and-Tracking-system
 
-This is my very first project which I have successfully sold to Velisha Farms
+This is my very first project which I have successfully sold to a client
+
+https://user-images.githubusercontent.com/8208583/48812952-c8808080-ed88-11e8-9c83-3fcb58f65a5c.PNG
 
 The pallet ordering, and tracking system is a windows software application which can calculate the pallets & crates, also can break down the ordering of the order quick and easy.
 
